@@ -1,0 +1,11 @@
+Ten phuong: Phuong 1
+So luong ho khau: 1
+Ma ho khau: 123
+Ten chu ho: Nguyen Toai
+Đia chi: 1056 Huynh Tan Phat
+So luong thanh vien: 1
+ID: 111111
+Ten: Nguyen Toan
+Nam sinh: 2003
+Que quan: Dak Lak
+Gioi tinh: Nam
